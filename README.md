@@ -10,5 +10,3 @@ e) Issue a command  cd htmlpy and run source bin/activate
 f) Issue a command pip install eel
 g) Issue a command cd application and run python app.py
 h) result your Web<=>Python app will start.
-
-
